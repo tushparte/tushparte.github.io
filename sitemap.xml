@@ -2,12 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>./categories/</loc>
+    <loc>https://tushparte.github.io/posts/2021/10/book-notes-atomic-habits/</loc>
+    <lastmod>2021-10-24T12:54:11+05:30</lastmod>
   </url><url>
-    <loc>./series/</loc>
+    <loc>https://tushparte.github.io/posts/</loc>
+    <lastmod>2021-10-24T12:54:11+05:30</lastmod>
   </url><url>
-    <loc>./tags/</loc>
+    <loc>https://tushparte.github.io/</loc>
+    <lastmod>2021-10-24T12:54:11+05:30</lastmod>
   </url><url>
-    <loc>./</loc>
+    <loc>https://tushparte.github.io/about/</loc>
+    <lastmod>2021-10-23T21:27:37+05:30</lastmod>
+  </url><url>
+    <loc>https://tushparte.github.io/categories/</loc>
+  </url><url>
+    <loc>https://tushparte.github.io/series/</loc>
+  </url><url>
+    <loc>https://tushparte.github.io/tags/</loc>
   </url>
 </urlset>

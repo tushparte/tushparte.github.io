@@ -2,10 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tushar Parte.</title>
-    <link>./</link>
+    <link>https://tushparte.github.io/</link>
     <description>Recent content on Tushar Parte.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="./index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 24 Oct 2021 12:54:11 +0530</lastBuildDate><atom:link href="https://tushparte.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Notes: Atomic Habits</title>
+      <link>https://tushparte.github.io/posts/2021/10/book-notes-atomic-habits/</link>
+      <pubDate>Sun, 24 Oct 2021 12:54:11 +0530</pubDate>
+      
+      <guid>https://tushparte.github.io/posts/2021/10/book-notes-atomic-habits/</guid>
+      <description>Atomic Habits  We all deal with setbacks but in the long run, the quality of our lives often depends on the quality of our habits. Maybe there are people who can achieve incredible success overnight. I don&amp;#39;t know any of them, and I&amp;#39;m certainly not one of them. There is no one defining moment on your journey but there are many. It is a gradual evolution.
+  The backbone of this book is four-step model of habits- cue, craving, response, and reward.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://tushparte.github.io/about/</link>
+      <pubDate>Sat, 23 Oct 2021 21:27:37 +0530</pubDate>
+      
+      <guid>https://tushparte.github.io/about/</guid>
+      <description>Hey, I am Tushar.
+ I am currently a final year student at IIIT Allahabad pursuing a bachelors degree in Information Technology. I got introduced to programming when I was in High School and ever since developed a interest in it, so naturally I chose to pursue the same in college. My core interest lies in programming, software engineering and large scale systems. Apart from coding and engineering I enjoy reading a good book, watching anime and playing fps games.</description>
+    </item>
+    
   </channel>
 </rss>
